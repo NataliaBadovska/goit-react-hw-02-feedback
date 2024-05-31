@@ -1,0 +1,7 @@
+.statistics{
+    list-style-type: none; 
+}
+
+.statistics__item{
+    font-size: 32px;
+}
